@@ -1,0 +1,60 @@
+﻿@model MediaPark.Models.Delivery
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<p>00010402</p>
+
+<div>
+    <h4>Delivery</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Company)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Company)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Mark)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Mark)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DeliveryDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DeliveryDate)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Products)
+        </dt>
+        <dd class="col-sm-10">
+            <table class="table">
+                <tr>
+                    <th>Customer Name</th>
+                    <th>Review</th>
+                </tr>
+                @foreach (var item in Model.Products)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Branch.BranchName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Review)
+                        </td>
+                    </tr>
+                }
+            </table>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
