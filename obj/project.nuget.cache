@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vJ5JR974eRpEVuHVxUiD271tJmJL/nTZ4BHCngGx9QJBj+gD+BNMCGLDFGSszCGFV9B6EBsXCJ1+F+YKrVgBAg==",
+  "dgSpecHash": "Bb5+otsWgkbbKOg8YZWWgXjTuW1emdsQWYUdq/jJ2j7iRXZtDnrv/cpVuZpWGsDMOQ8FXHhghVTpF0jnUPvvhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\MediaPark\\MediaPark.csproj",
+  "projectFilePath": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\WAD_CW_CODE_00010402\\MediaPark.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\The_OQIL )))))\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\The_OQIL )))))\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.15\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.15.nupkg.sha512",

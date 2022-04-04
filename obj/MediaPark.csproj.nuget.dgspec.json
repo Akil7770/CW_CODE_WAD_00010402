@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\MediaPark\\MediaPark.csproj": {}
+    "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\WAD_CW_CODE_00010402\\MediaPark.csproj": {}
   },
   "projects": {
-    "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\MediaPark\\MediaPark.csproj": {
+    "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\WAD_CW_CODE_00010402\\MediaPark.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\MediaPark\\MediaPark.csproj",
+        "projectUniqueName": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\WAD_CW_CODE_00010402\\MediaPark.csproj",
         "projectName": "MediaPark",
-        "projectPath": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\MediaPark\\MediaPark.csproj",
+        "projectPath": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\WAD_CW_CODE_00010402\\MediaPark.csproj",
         "packagesPath": "C:\\Users\\The_OQIL )))))\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\MediaPark\\obj\\",
+        "outputPath": "C:\\Users\\The_OQIL )))))\\Desktop\\Новая папка (2)\\MediaPark\\WAD_CW_CODE_00010402\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
